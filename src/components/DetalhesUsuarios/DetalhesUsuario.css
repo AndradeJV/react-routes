@@ -1,3 +1,9 @@
-Link {
+.link-voltar {
   text-decoration: none;
+  color: #DA3C78;
+  cursor: pointer;
+}
+
+.link-voltar:hover {
+  text-decoration: underline;
 }

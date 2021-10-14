@@ -4,7 +4,7 @@ import './App.css';
 import Routes from './Routes/Routes';
 
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <main>
@@ -13,5 +13,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
